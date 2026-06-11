@@ -1,0 +1,24 @@
+{
+  "toplanti_konusu": "Yeni nesil akıllı termosal projemizin üretim ve lansman sürecindeki son durumu hakkında değerlendirme ve ilerleme planları",
+  "gorusulen_konular": [
+    "Tedarikçi değişimi ve yeni tedarikçiler ile görüşmeler",
+    "Mobil uygulama integrasyonlarının test sonuçları ve hatalar",
+    "Fiyatlandırma stratejisi ve lansman fiyatı kararı"
+  ],
+  "alinan_kararlar": [
+    "Yeni tedarikçi ile satın alma sürecinin başlatılması",
+    "API güvenlik hataları ve karanlık tema sorununun çözülmesi",
+    "Lansman fiyatı 1499 lira olarak belirlenerek ilk 3 ay için kullanılarak daha sonra 1699 lira'ya çıkartılacak"
+  ],
+  "aksiyon_maddeleri": [
+    "Murat, yeni tedarikçi ile satın alma sürecini başlat",
+    "Elif, Cuma gününe kadar API güvenlik hataları ve karanlık tema sorununu çözecek",
+    "Ayşe, lansman fiyatı stratejisi üzerine reklam kampanyalarını son haline getirecek",
+    "Kemal, Perşembe gününe kadar kargo şirketleri ile olan sözleşmeleri netleştir"
+  ],
+  "participants": [
+    "sametulaskarasu57@outlook.com.",
+    "sametulaskarasu57@hotmail.com",
+    "sametulaskarasu57@gmail.com"
+  ]
+}

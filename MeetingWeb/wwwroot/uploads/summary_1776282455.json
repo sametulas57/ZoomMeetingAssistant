@@ -1,0 +1,25 @@
+{
+  "toplanti_konusu": "Toplantı, yeni nesil akıllı termosalın üretim ve lansman süreçlerindeki son durumu tartıştı.",
+  "gorusulen_konular": [
+    "Mikrochip tedarik sorunları ve alternatif tedarikçi araştırmaları",
+    "Yazılım tarafında API güvenlik hataları ve uygulamanın karanlık temas sorunu",
+    "Fiyatlandırma stratejisi ve lansman fiyatı kararları",
+    "Depolama kapasitesi ve lojistik planlama"
+  ],
+  "alinan_kararlar": [
+    "Tedarikçi değişikliği için %40 teslimat süresinde uygun olan bir tedarikçi ile anlaşma yapılması kararı alındı.",
+    "API güvenlik hataları ve karanlık tema sorunu çözümlenmesi belirlendi.",
+    "Lansman fiyatı 1499 lira olarak belirlendi ancak üç ay sonra fiyat artırımı planlandı."
+  ],
+  "aksiyon_maddeleri": [
+    "Murat yeni tedarikçi ile satın alma sürecini başlatmalı",
+    "Elif API güvenlik hataları ve karanlık tema sorununu çözmeli",
+    "Ayşe yeni fiyatlandırma stratejisi üzerine reklam kampanyalarını hale getirmeli",
+    "Kemal kargo şirketleri ile olan sözleşmeleri reviz etmelidir"
+  ],
+  "participants": [
+    "sametulaskarasu57@outlook.com.",
+    "sametulaskarasu57@hotmail.com",
+    "sametulaskarasu57@gmail.com"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "toplanti_konusu": "Yeni nesil akıllı termosal projemizin üretim ve lansman süreçlerindeki son durumu değerlendirildi ve ilerleme alınacak aksiyonlar belirlendi.",
+  "gorusulen_konular": [
+    "Mikrochip tedarik sorunları ve alternatif tedarikçiler",
+    "Yazılım tarafından durum",
+    "Pazarlama stratejisi ve lansman fiyatı",
+    "Depolama kapasitesi ve lojistik planı"
+  ],
+  "alinan_kararlar": [
+    "Tedarikçi değişikliği yapılmaya karar verildi.",
+    "Lansman fiyatı 1499 lira olarak belirlendi (ilk 3 ay için).",
+    "Lojistik planının revize edilmesi ve tamamlanması gerektiği bulundu."
+  ],
+  "aksiyon_maddeleri": [
+    "Murat yeni tedarikçi ile satın alma sürecini başlat.",
+    "Elif API güvenlik hatalarını ve uygulamanın karanlık temas sorununu çözecek.",
+    "Ayşe yeni fiyatlandırma stratejisi üzerine reklam kampanyalarını belirleyecek.",
+    "Kemal Perşembe gününe kadar kargo şirketleri ile olan sözleşmeleri netleştir."
+  ],
+  "participants": [
+    "sametulaskarasu57@outlook.com.",
+    "sametulaskarasu57@hotmail.com",
+    "sametulaskarasu57@gmail.com"
+  ]
+}

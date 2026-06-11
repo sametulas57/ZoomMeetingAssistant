@@ -1,0 +1,25 @@
+{
+  "toplanti_konusu": "Toplantının ana amacı, yeni nesil akıllı termosal projemizin üretim ve lansman sürecindeki son durumu değerlendirmek.",
+  "gorusulen_konular": [
+    "Mikrochip tedarik sorunları ve alternatif tedarikçiler ile görüşmeler",
+    "Mobil uygulama integreasyonu ve UI/UIX hataları",
+    "Fiyatlandırma stratejisi ve lansman fiyat belirleme",
+    "Depolama kapasite ve lojistik planlaması"
+  ],
+  "alinan_kararlar": [
+    "Alternatif tedarikçi ile yeni bir anlaşma sağlamak",
+    "Mobil uygulamada API güvenlik hataları ve karanlık tema sorunlarını çözmek",
+    "Lansman fiyatı 1499 TL olarak belirlenmek"
+  ],
+  "aksiyon_maddeleri": [
+    "Murat yeni tedarikçi ile satın alma sürecini başlatmalı",
+    "Elif Cuma gününe kadar API güvenlik hatalarını ve karanlık tema sorunlarını çözmeli",
+    "Ayşe lansman fiyatının belirlenmesine dayalı reklam kampanyalarını hazırlamalı",
+    "Kemal Perşembe gününe kadar kargo şirketleri ile olan sözleşmeleri inlemeli"
+  ],
+  "participants": [
+    "sametulaskarasu57@outlook.com.",
+    "sametulaskarasu57@hotmail.com",
+    "sametulaskarasu57@gmail.com"
+  ]
+}
